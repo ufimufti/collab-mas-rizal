@@ -1,0 +1,2 @@
+input2
+Namun, baru-baru ini muncul banyak keluhan pengguna aplikasi Zoom yang tidak bisa melakukan Share Screen. Share Screen ini merupakan sebuah fitur dari Zoom yang memungkinkan kamu sebagai host/guru bisa membagi layar presentasi secara live kepada para partisipan/peserta.
